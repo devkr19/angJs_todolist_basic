@@ -1,0 +1,15 @@
+tr {
+  text-align: center;
+}
+#dislikebutton {
+  background-color: rgb(247, 70, 70);
+}
+#likebutton {
+  background-color: chartreuse;
+}
+#deletebutton {
+  background-color: red;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
